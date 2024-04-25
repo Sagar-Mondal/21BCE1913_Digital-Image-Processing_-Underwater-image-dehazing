@@ -37,8 +37,6 @@ def global_Stretching_ab(a,height, width):
 
 
 def  lab_stretching(sceneRadiance):
-
-
     sceneRadiance = np.clip(sceneRadiance, 0, 255)
     sceneRadiance = np.uint8(sceneRadiance)
     height = len(sceneRadiance)
@@ -55,33 +53,5 @@ def  lab_stretching(sceneRadiance):
     labArray[:, :, 1] = img_a_stretching
     labArray[:, :, 2] = img_b_stretching
     img_rgb = lab2rgb(labArray) * 255
-
-
-
-    return img_rgb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    sceneRadiance = np.clip(sceneRadiance, 0, 255)
-    sceneRadiance = np.uint8(sceneRadiance)
-    height = len(sceneRadiance)
-    width = len(sceneRadiance[0])
-    img_hsv = rgb2hsv(sceneRadiance)
-    img_hsv[:, :, 1] = global_stretching(img_hsv[:, :, 1], height, width)
-    img_hsv[:, :, 2] = global_stretching(img_hsv[:, :, 2], height, width)
-    img_rgb = hsv2rgb(img_hsv) * 255
 
     return img_rgb
