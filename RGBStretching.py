@@ -11,6 +11,3 @@ def rgb_stretching(img):
             for j in range(width):
                 img[i,j,k] = (img[i,j,k] - Min_channel) * (255 - 0) / (Max_channel - Min_channel)+ 0
     return img
-
-
-
