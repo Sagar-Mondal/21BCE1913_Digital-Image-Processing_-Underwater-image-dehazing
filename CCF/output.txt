@@ -1,0 +1,5341 @@
+
+quality =
+
+   24.2297
+
+Image: 100_img_.png
+
+quality =
+
+   27.0720
+
+Image: 10139.png
+
+quality =
+
+   46.9681
+
+Image: 10151.png
+
+quality =
+
+   49.4110
+
+Image: 101_img_.png
+
+quality =
+
+   28.7490
+
+Image: 102_img_.png
+
+quality =
+
+   41.7604
+
+Image: 104_img_.png
+
+quality =
+
+   67.0928
+
+Image: 105_img_.png
+
+quality =
+
+   49.4201
+
+Image: 106_img_.png
+
+quality =
+
+   41.6964
+
+Image: 107_img_.png
+
+quality =
+
+   25.4315
+
+Image: 108_img_.png
+
+quality =
+
+   57.9363
+
+Image: 10909.png
+
+quality =
+
+   28.7986
+
+Image: 10945.png
+
+quality =
+
+   29.2097
+
+Image: 109_img_.png
+
+quality =
+
+   29.0370
+
+Image: 10_img_.png
+
+quality =
+
+   65.6042
+
+Image: 11052.png
+
+quality =
+
+   78.7308
+
+Image: 11064.png
+
+quality =
+
+   74.2485
+
+Image: 111_img_.png
+
+quality =
+
+   25.4679
+
+Image: 112_img_.png
+
+quality =
+
+   34.7129
+
+Image: 11374.png
+
+quality =
+
+   69.8525
+
+Image: 11398.png
+
+quality =
+
+   52.2558
+
+Image: 113_img_.png
+
+quality =
+
+   51.5343
+
+Image: 114_img_.png
+
+quality =
+
+   50.6563
+
+Image: 115_img_.png
+
+quality =
+
+   45.0814
+
+Image: 116_img_.png
+
+quality =
+
+   37.3442
+
+Image: 117_img_.png
+
+quality =
+
+   55.0142
+
+Image: 118_img_.png
+
+quality =
+
+   86.2646
+
+Image: 11_img_.png
+
+quality =
+
+   52.4050
+
+Image: 120_img_.png
+
+quality =
+
+   54.7627
+
+Image: 121_img_.png
+
+quality =
+
+   48.8284
+
+Image: 1225.png
+
+quality =
+
+   35.9502
+
+Image: 12290.png
+
+quality =
+
+   23.5862
+
+Image: 12299.png
+
+quality =
+
+   45.7611
+
+Image: 122_img_.png
+
+quality =
+
+   39.5690
+
+Image: 12324.png
+
+quality =
+
+   25.6297
+
+Image: 12336.png
+
+quality =
+
+   35.6997
+
+Image: 12348.png
+
+quality =
+
+   46.5173
+
+Image: 123_img_.png
+
+quality =
+
+   35.8977
+
+Image: 12422.png
+
+quality =
+
+   32.1382
+
+Image: 12433.png
+
+quality =
+
+   28.0555
+
+Image: 12445.png
+
+quality =
+
+   34.4398
+
+Image: 124_img_.png
+
+quality =
+
+   46.7552
+
+Image: 125_img_.png
+
+quality =
+
+   30.6876
+
+Image: 12900.png
+
+quality =
+
+   45.9093
+
+Image: 129_img_.png
+
+quality =
+
+   37.3656
+
+Image: 130_img_.png
+
+quality =
+
+   50.0852
+
+Image: 131_img_.png
+
+quality =
+
+   41.5461
+
+Image: 133_img_.png
+
+quality =
+
+   40.2435
+
+Image: 135_img_.png
+
+quality =
+
+   41.9097
+
+Image: 136_img_.png
+
+quality =
+
+   36.0173
+
+Image: 137_img_.png
+
+quality =
+
+   35.3709
+
+Image: 138_img_.png
+
+quality =
+
+   42.2746
+
+Image: 139_img_.png
+
+quality =
+
+   63.0653
+
+Image: 13_img_.png
+
+quality =
+
+   28.4360
+
+Image: 1407.png
+
+quality =
+
+   38.7518
+
+Image: 140_img_.png
+
+quality =
+
+   65.2207
+
+Image: 141_img_.png
+
+quality =
+
+   37.6573
+
+Image: 142_img_.png
+
+quality =
+
+   43.1314
+
+Image: 143_img_.png
+
+quality =
+
+   40.1057
+
+Image: 144_img_.png
+
+quality =
+
+   60.3287
+
+Image: 145_img_.png
+
+quality =
+
+   44.4821
+
+Image: 146_img_.png
+
+quality =
+
+   42.6969
+
+Image: 148_img_.png
+
+quality =
+
+   37.1598
+
+Image: 1491.png
+
+quality =
+
+   39.0958
+
+Image: 149_img_.png
+
+quality =
+
+   34.8164
+
+Image: 14_img_.png
+
+quality =
+
+   52.5253
+
+Image: 15001.png
+
+quality =
+
+   22.7942
+
+Image: 15003.png
+
+quality =
+
+   31.4783
+
+Image: 15045.png
+
+quality =
+
+   34.2944
+
+Image: 15094.png
+
+quality =
+
+   47.3092
+
+Image: 150_img_.png
+
+quality =
+
+   28.8283
+
+Image: 15113.png
+
+quality =
+
+   30.3612
+
+Image: 15136.png
+
+quality =
+
+   45.7774
+
+Image: 151_img_.png
+
+quality =
+
+   26.9139
+
+Image: 152_img_.png
+
+quality =
+
+   34.3318
+
+Image: 1539.png
+
+quality =
+
+   60.3182
+
+Image: 153_img_.png
+
+quality =
+
+   30.5344
+
+Image: 15418.png
+
+quality =
+
+   47.8175
+
+Image: 15426.png
+
+quality =
+
+   40.1553
+
+Image: 154_img_.png
+
+quality =
+
+   46.1678
+
+Image: 15544.png
+
+quality =
+
+   39.7248
+
+Image: 155_img_.png
+
+quality =
+
+   47.8505
+
+Image: 156_img_.png
+
+quality =
+
+   24.7612
+
+Image: 15704.png
+
+quality =
+
+   63.9463
+
+Image: 1573.png
+
+quality =
+
+   40.9181
+
+Image: 157_img_.png
+
+quality =
+
+   42.2891
+
+Image: 158_img_.png
+
+quality =
+
+   56.5130
+
+Image: 159_img_.png
+
+quality =
+
+   48.3855
+
+Image: 15_img_.png
+
+quality =
+
+   44.6035
+
+Image: 160_img_.png
+
+quality =
+
+   40.5583
+
+Image: 161_img_.png
+
+quality =
+
+   31.2921
+
+Image: 162_img_.png
+
+quality =
+
+   43.2431
+
+Image: 163_img_.png
+
+quality =
+
+   44.7413
+
+Image: 164_img_.png
+
+quality =
+
+   39.1239
+
+Image: 165_img_.png
+
+quality =
+
+   46.4844
+
+Image: 1660.png
+
+quality =
+
+   48.2014
+
+Image: 166_img_.png
+
+quality =
+
+   39.7604
+
+Image: 168_img_.png
+
+quality =
+
+   51.3081
+
+Image: 169_img_.png
+
+quality =
+
+   46.3954
+
+Image: 16_img_.png
+
+quality =
+
+   26.8381
+
+Image: 170_img_.png
+
+quality =
+
+   55.2896
+
+Image: 171_img_.png
+
+quality =
+
+   48.5623
+
+Image: 172_img_.png
+
+quality =
+
+   36.8516
+
+Image: 173_img_.png
+
+quality =
+
+   39.8325
+
+Image: 1742.png
+
+quality =
+
+   45.1028
+
+Image: 174_img_.png
+
+quality =
+
+   29.3534
+
+Image: 175_img_.png
+
+quality =
+
+   39.2169
+
+Image: 176_img_.png
+
+quality =
+
+   32.0015
+
+Image: 177_img_.png
+
+quality =
+
+   39.1143
+
+Image: 178_img_.png
+
+quality =
+
+   30.1450
+
+Image: 179_img_.png
+
+quality =
+
+   50.2854
+
+Image: 17_img_.png
+
+quality =
+
+   51.0038
+
+Image: 180_img_.png
+
+quality =
+
+   46.6133
+
+Image: 182_img_.png
+
+quality =
+
+   29.4851
+
+Image: 183_img_.png
+
+quality =
+
+   18.1337
+
+Image: 184_img_.png
+
+quality =
+
+   40.4907
+
+Image: 185_img_.png
+
+quality =
+
+   51.7204
+
+Image: 186_img_.png
+
+quality =
+
+   26.6283
+
+Image: 187_img_.png
+
+quality =
+
+   46.4546
+
+Image: 188_img_.png
+
+quality =
+
+   26.8296
+
+Image: 189_img_.png
+
+quality =
+
+   44.8344
+
+Image: 18_img_.png
+
+quality =
+
+   43.2979
+
+Image: 190_img_.png
+
+quality =
+
+   23.0087
+
+Image: 191_img_.png
+
+quality =
+
+   54.1973
+
+Image: 192_img_.png
+
+quality =
+
+   78.8722
+
+Image: 193_img_.png
+
+quality =
+
+   50.5221
+
+Image: 194_img_.png
+
+quality =
+
+   32.2257
+
+Image: 1957.png
+
+quality =
+
+   41.5472
+
+Image: 195_img_.png
+
+quality =
+
+   41.3207
+
+Image: 196_img_.png
+
+quality =
+
+   68.8905
+
+Image: 197_img_.png
+
+quality =
+
+   46.3707
+
+Image: 198_img_.png
+
+quality =
+
+   25.9545
+
+Image: 199_img_.png
+
+quality =
+
+   44.6943
+
+Image: 19_img_.png
+
+quality =
+
+   48.9894
+
+Image: 20.png
+
+quality =
+
+   53.4754
+
+Image: 200_img_.png
+
+quality =
+
+   26.7266
+
+Image: 201_img_.png
+
+quality =
+
+   40.5247
+
+Image: 202_img_.png
+
+quality =
+
+   43.7202
+
+Image: 203_img_.png
+
+quality =
+
+   45.2398
+
+Image: 204_img_.png
+
+quality =
+
+   28.7512
+
+Image: 205_img_.png
+
+quality =
+
+   36.6509
+
+Image: 206_img_.png
+
+quality =
+
+   39.5567
+
+Image: 207_img_.png
+
+quality =
+
+   34.5977
+
+Image: 208_img_.png
+
+quality =
+
+   35.8470
+
+Image: 209_img_.png
+
+quality =
+
+   36.0899
+
+Image: 210_img_.png
+
+quality =
+
+   42.9305
+
+Image: 211_img_.png
+
+quality =
+
+   36.1768
+
+Image: 212_img_.png
+
+quality =
+
+   27.7364
+
+Image: 213_img_.png
+
+quality =
+
+   31.9000
+
+Image: 214_img_.png
+
+quality =
+
+   36.3933
+
+Image: 215_img_.png
+
+quality =
+
+   36.8585
+
+Image: 216_img_.png
+
+quality =
+
+   39.2264
+
+Image: 217_img_.png
+
+quality =
+
+   45.9863
+
+Image: 219_img_.png
+
+quality =
+
+   36.2671
+
+Image: 220_img_.png
+
+quality =
+
+   30.8868
+
+Image: 221_img_.png
+
+quality =
+
+   23.7879
+
+Image: 222_img_.png
+
+quality =
+
+   31.1763
+
+Image: 223_img_.png
+
+quality =
+
+   32.3562
+
+Image: 224_img_.png
+
+quality =
+
+   42.8132
+
+Image: 225_img_.png
+
+quality =
+
+   33.9909
+
+Image: 226_img_.png
+
+quality =
+
+   47.7676
+
+Image: 227_img_.png
+
+quality =
+
+   60.5411
+
+Image: 228_img_.png
+
+quality =
+
+   33.8293
+
+Image: 229_img_.png
+
+quality =
+
+   32.5380
+
+Image: 22_img_.png
+
+quality =
+
+   39.8932
+
+Image: 230_img_.png
+
+quality =
+
+   28.1974
+
+Image: 231_img_.png
+
+quality =
+
+   33.4292
+
+Image: 232_img_.png
+
+quality =
+
+   35.3525
+
+Image: 233_img_.png
+
+quality =
+
+   41.7032
+
+Image: 234_img_.png
+
+quality =
+
+   34.6342
+
+Image: 236_img_.png
+
+quality =
+
+   28.6986
+
+Image: 238_img_.png
+
+quality =
+
+   33.1726
+
+Image: 23_img_.png
+
+quality =
+
+   73.7218
+
+Image: 240_img_.png
+
+quality =
+
+   27.0756
+
+Image: 241_img_.png
+
+quality =
+
+   42.0582
+
+Image: 242_img_.png
+
+quality =
+
+   32.7975
+
+Image: 243_img_.png
+
+quality =
+
+   49.0838
+
+Image: 244_img_.png
+
+quality =
+
+   33.4094
+
+Image: 245_img_.png
+
+quality =
+
+   41.5494
+
+Image: 246_img_.png
+
+quality =
+
+   31.7703
+
+Image: 247_img_.png
+
+quality =
+
+   23.3317
+
+Image: 248_img_.png
+
+quality =
+
+   54.5471
+
+Image: 24_img_.png
+
+quality =
+
+   39.0902
+
+Image: 251_img_.png
+
+quality =
+
+   26.2567
+
+Image: 252_img_.png
+
+quality =
+
+   42.0672
+
+Image: 253_img_.png
+
+quality =
+
+   45.7411
+
+Image: 2546.png
+
+quality =
+
+   24.9861
+
+Image: 254_img_.png
+
+quality =
+
+   34.4579
+
+Image: 255_img_.png
+
+quality =
+
+   33.9886
+
+Image: 257_img_.png
+
+quality =
+
+   42.0547
+
+Image: 258_img_.png
+
+quality =
+
+   31.1456
+
+Image: 259_img_.png
+
+quality =
+
+   34.3954
+
+Image: 25_img_.png
+
+quality =
+
+   50.1942
+
+Image: 260_img_.png
+
+quality =
+
+   39.0089
+
+Image: 261_img_.png
+
+quality =
+
+   47.0560
+
+Image: 2629.png
+
+quality =
+
+   41.5791
+
+Image: 262_img_.png
+
+quality =
+
+   76.9775
+
+Image: 263_img_.png
+
+quality =
+
+   22.3611
+
+Image: 265_img_.png
+
+quality =
+
+   49.0615
+
+Image: 266_img_.png
+
+quality =
+
+   52.3307
+
+Image: 2677.png
+
+quality =
+
+   25.8625
+
+Image: 267_img_.png
+
+quality =
+
+   26.4814
+
+Image: 268_img_.png
+
+quality =
+
+   31.9826
+
+Image: 26_img_.png
+
+quality =
+
+   65.1095
+
+Image: 2701.png
+
+quality =
+
+   33.0009
+
+Image: 270_img_.png
+
+quality =
+
+   36.2330
+
+Image: 271_img_.png
+
+quality =
+
+   23.7506
+
+Image: 272_img_.png
+
+quality =
+
+   29.6065
+
+Image: 273_img_.png
+
+quality =
+
+   54.6728
+
+Image: 274_img_.png
+
+quality =
+
+   45.0193
+
+Image: 275_img_.png
+
+quality =
+
+   31.9249
+
+Image: 276_img_.png
+
+quality =
+
+   51.8656
+
+Image: 2774.png
+
+quality =
+
+   55.0278
+
+Image: 277_img_.png
+
+quality =
+
+   44.7815
+
+Image: 2787.png
+
+quality =
+
+   38.1578
+
+Image: 278_img_.png
+
+quality =
+
+   45.5564
+
+Image: 279_img_.png
+
+quality =
+
+   46.4572
+
+Image: 27_img_.png
+
+quality =
+
+   56.2903
+
+Image: 280_img_.png
+
+quality =
+
+   32.7899
+
+Image: 281_img_.png
+
+quality =
+
+   42.2123
+
+Image: 282_img_.png
+
+quality =
+
+   48.3872
+
+Image: 284_img_.png
+
+quality =
+
+   36.8716
+
+Image: 285_img_.png
+
+quality =
+
+   59.2825
+
+Image: 287_img_.png
+
+quality =
+
+   39.7727
+
+Image: 2882.png
+
+quality =
+
+   48.6218
+
+Image: 288_img_.png
+
+quality =
+
+   57.0783
+
+Image: 28_img_.png
+
+quality =
+
+   46.9907
+
+Image: 290_img_.png
+
+quality =
+
+   45.6890
+
+Image: 292_img_.png
+
+quality =
+
+   84.5497
+
+Image: 293_img_.png
+
+quality =
+
+   61.0683
+
+Image: 294_img_.png
+
+quality =
+
+   36.1529
+
+Image: 295_img_.png
+
+quality =
+
+   30.0751
+
+Image: 296_img_.png
+
+quality =
+
+   39.6834
+
+Image: 2977.png
+
+quality =
+
+   29.8435
+
+Image: 298_img_.png
+
+quality =
+
+   57.1608
+
+Image: 299_img_.png
+
+quality =
+
+   26.4205
+
+Image: 29_img_.png
+
+quality =
+
+   71.0104
+
+Image: 2_img_.png
+
+quality =
+
+   44.0575
+
+Image: 3001.png
+
+quality =
+
+   47.3335
+
+Image: 300_img_.png
+
+quality =
+
+   31.3359
+
+Image: 3015.png
+
+quality =
+
+   52.5333
+
+Image: 301_img_.png
+
+quality =
+
+   48.4441
+
+Image: 302_img_.png
+
+quality =
+
+   66.6037
+
+Image: 303_img_.png
+
+quality =
+
+   44.4303
+
+Image: 304_img_.png
+
+quality =
+
+   28.7632
+
+Image: 305_img_.png
+
+quality =
+
+   44.7244
+
+Image: 306_img_.png
+
+quality =
+
+   45.2875
+
+Image: 307_img_.png
+
+quality =
+
+   36.3307
+
+Image: 30_img_.png
+
+quality =
+
+   69.7724
+
+Image: 31.png
+
+quality =
+
+   41.6184
+
+Image: 311_img_.png
+
+quality =
+
+   50.4013
+
+Image: 312_img_.png
+
+quality =
+
+   55.8683
+
+Image: 313_img_.png
+
+quality =
+
+   60.3068
+
+Image: 314_img_.png
+
+quality =
+
+   43.2228
+
+Image: 315_img_.png
+
+quality =
+
+   51.8494
+
+Image: 316_img_.png
+
+quality =
+
+   39.0328
+
+Image: 317_img_.png
+
+quality =
+
+   55.6049
+
+Image: 318_img_.png
+
+quality =
+
+   29.3900
+
+Image: 3196.png
+
+quality =
+
+   44.0277
+
+Image: 319_img_.png
+
+quality =
+
+   39.3459
+
+Image: 3202.png
+
+quality =
+
+   59.9349
+
+Image: 320_img_.png
+
+quality =
+
+   50.3552
+
+Image: 322_img_.png
+
+quality =
+
+   39.0038
+
+Image: 323_img_.png
+
+quality =
+
+   69.7590
+
+Image: 324_img_.png
+
+quality =
+
+   49.2806
+
+Image: 325_img_.png
+
+quality =
+
+   75.1128
+
+Image: 326_img_.png
+
+quality =
+
+   39.9840
+
+Image: 327_img_.png
+
+quality =
+
+   49.8030
+
+Image: 328_img_.png
+
+quality =
+
+   45.4777
+
+Image: 32_img_.png
+
+quality =
+
+   40.9986
+
+Image: 330_img_.png
+
+quality =
+
+   38.3979
+
+Image: 332_img_.png
+
+quality =
+
+   51.3797
+
+Image: 3330.png
+
+quality =
+
+   31.7014
+
+Image: 334_img_.png
+
+quality =
+
+   84.9089
+
+Image: 336_img_.png
+
+quality =
+
+   45.5699
+
+Image: 337_img_.png
+
+quality =
+
+   71.2647
+
+Image: 338_img_.png
+
+quality =
+
+   57.1558
+
+Image: 340_img_.png
+
+quality =
+
+   45.0854
+
+Image: 341_img_.png
+
+quality =
+
+   42.2502
+
+Image: 342_img_.png
+
+quality =
+
+   44.6940
+
+Image: 343_img_.png
+
+quality =
+
+   21.5101
+
+Image: 345_img_.png
+
+quality =
+
+   56.9095
+
+Image: 346_img_.png
+
+quality =
+
+   64.8700
+
+Image: 347_img_.png
+
+quality =
+
+   26.3171
+
+Image: 348_img_.png
+
+quality =
+
+   64.9685
+
+Image: 35.png
+
+quality =
+
+   69.9113
+
+Image: 350_img_.png
+
+quality =
+
+   47.1210
+
+Image: 351_img_.png
+
+quality =
+
+   57.3754
+
+Image: 353_img_.png
+
+quality =
+
+   61.1647
+
+Image: 355_img_.png
+
+quality =
+
+   42.6572
+
+Image: 356_img_.png
+
+quality =
+
+   67.4537
+
+Image: 359_img_.png
+
+quality =
+
+   51.0458
+
+Image: 360_img_.png
+
+quality =
+
+   47.3149
+
+Image: 361_img_.png
+
+quality =
+
+   37.5652
+
+Image: 362_img_.png
+
+quality =
+
+   31.8965
+
+Image: 363_img_.png
+
+quality =
+
+   75.0653
+
+Image: 364_img_.png
+
+quality =
+
+   24.9750
+
+Image: 3650.png
+
+quality =
+
+   46.4976
+
+Image: 365_img_.png
+
+quality =
+
+   71.4784
+
+Image: 366_img_.png
+
+quality =
+
+   54.4922
+
+Image: 367_img_.png
+
+quality =
+
+   64.0705
+
+Image: 369_img_.png
+
+quality =
+
+   28.5942
+
+Image: 370_img_.png
+
+quality =
+
+   30.5687
+
+Image: 371_img_.png
+
+quality =
+
+   30.4294
+
+Image: 3728.png
+
+quality =
+
+   19.2738
+
+Image: 372_img_.png
+
+quality =
+
+   43.3941
+
+Image: 373_img_.png
+
+quality =
+
+   22.9846
+
+Image: 374_img_.png
+
+quality =
+
+   46.4937
+
+Image: 375_img_.png
+
+quality =
+
+   33.2216
+
+Image: 376_img_.png
+
+quality =
+
+   26.1520
+
+Image: 377_img_.png
+
+quality =
+
+   45.3658
+
+Image: 378_img_.png
+
+quality =
+
+   46.0776
+
+Image: 379_img_.png
+
+quality =
+
+   43.2629
+
+Image: 37_img_.png
+
+quality =
+
+   29.9529
+
+Image: 380_img_.png
+
+quality =
+
+   54.9684
+
+Image: 381_img_.png
+
+quality =
+
+   31.3910
+
+Image: 382_img_.png
+
+quality =
+
+   33.6691
+
+Image: 383_img_.png
+
+quality =
+
+   37.2735
+
+Image: 384_img_.png
+
+quality =
+
+   22.7157
+
+Image: 385_img_.png
+
+quality =
+
+   36.9487
+
+Image: 386_img_.png
+
+quality =
+
+   27.2951
+
+Image: 387_img_.png
+
+quality =
+
+   38.0120
+
+Image: 389_img_.png
+
+quality =
+
+   24.5610
+
+Image: 391_img_.png
+
+quality =
+
+   36.0047
+
+Image: 3925.png
+
+quality =
+
+   27.3050
+
+Image: 392_img_.png
+
+quality =
+
+   67.4230
+
+Image: 393_img_.png
+
+quality =
+
+   35.3084
+
+Image: 3947.png
+
+quality =
+
+   36.9218
+
+Image: 394_img_.png
+
+quality =
+
+   56.2050
+
+Image: 395_img_.png
+
+quality =
+
+   34.9413
+
+Image: 39_img_.png
+
+quality =
+
+   24.0432
+
+Image: 3_img_.png
+
+quality =
+
+   36.2118
+
+Image: 4.png
+
+quality =
+
+   45.3416
+
+Image: 400_img_.png
+
+quality =
+
+   22.2490
+
+Image: 401_img_.png
+
+quality =
+
+   34.7518
+
+Image: 402_img_.png
+
+quality =
+
+   55.3209
+
+Image: 403_img_.png
+
+quality =
+
+   64.0624
+
+Image: 404_img_.png
+
+quality =
+
+   39.5095
+
+Image: 405_img_.png
+
+quality =
+
+   50.0540
+
+Image: 406_img_.png
+
+quality =
+
+   27.5996
+
+Image: 4070.png
+
+quality =
+
+   29.4820
+
+Image: 407_img_.png
+
+quality =
+
+   34.0302
+
+Image: 408_img_.png
+
+quality =
+
+   44.5209
+
+Image: 409_img_.png
+
+quality =
+
+   27.9896
+
+Image: 410_img_.png
+
+quality =
+
+   75.0738
+
+Image: 411_img_.png
+
+quality =
+
+   52.0703
+
+Image: 412_img_.png
+
+quality =
+
+   49.2903
+
+Image: 413_img_.png
+
+quality =
+
+   30.9896
+
+Image: 415_img_.png
+
+quality =
+
+   46.1419
+
+Image: 416_img_.png
+
+quality =
+
+   41.6760
+
+Image: 417_img_.png
+
+quality =
+
+   47.8755
+
+Image: 418_img_.png
+
+quality =
+
+   44.2727
+
+Image: 419_img_.png
+
+quality =
+
+   44.3744
+
+Image: 41_img_.png
+
+quality =
+
+   48.1797
+
+Image: 420_img_.png
+
+quality =
+
+   45.3377
+
+Image: 421_img_.png
+
+quality =
+
+   43.7177
+
+Image: 422_img_.png
+
+quality =
+
+   43.1374
+
+Image: 423_img_.png
+
+quality =
+
+   34.8406
+
+Image: 424_img_.png
+
+quality =
+
+   22.9752
+
+Image: 425_img_.png
+
+quality =
+
+   51.4952
+
+Image: 428_img_.png
+
+quality =
+
+   40.9074
+
+Image: 429_img_.png
+
+quality =
+
+   46.7575
+
+Image: 42_img_.png
+
+quality =
+
+   47.8279
+
+Image: 432_img_.png
+
+quality =
+
+   62.5682
+
+Image: 433_img_.png
+
+quality =
+
+   44.2420
+
+Image: 435_img_.png
+
+quality =
+
+   52.0854
+
+Image: 436_img_.png
+
+quality =
+
+   22.1048
+
+Image: 437_img_.png
+
+quality =
+
+   43.3727
+
+Image: 438_img_.png
+
+quality =
+
+   24.3064
+
+Image: 439_img_.png
+
+quality =
+
+   56.4459
+
+Image: 43_img_.png
+
+quality =
+
+   46.3064
+
+Image: 440_img_.png
+
+quality =
+
+   40.3107
+
+Image: 441_img_.png
+
+quality =
+
+   48.3212
+
+Image: 442_img_.png
+
+quality =
+
+   53.8520
+
+Image: 443_img_.png
+
+quality =
+
+   65.0587
+
+Image: 444_img_.png
+
+quality =
+
+   52.3972
+
+Image: 445_img_.png
+
+quality =
+
+   26.8955
+
+Image: 446_img_.png
+
+quality =
+
+   59.6401
+
+Image: 447_img_.png
+
+quality =
+
+   39.6184
+
+Image: 448_img_.png
+
+quality =
+
+   51.6315
+
+Image: 449_img_.png
+
+quality =
+
+   51.2237
+
+Image: 44_img_.png
+
+quality =
+
+   63.2847
+
+Image: 450_img_.png
+
+quality =
+
+   68.0295
+
+Image: 451_img_.png
+
+quality =
+
+   45.7012
+
+Image: 452_img_.png
+
+quality =
+
+   19.6026
+
+Image: 453_img_.png
+
+quality =
+
+   47.7887
+
+Image: 454_img_.png
+
+quality =
+
+   36.7576
+
+Image: 455_img_.png
+
+quality =
+
+   37.8240
+
+Image: 457_img_.png
+
+quality =
+
+   36.6400
+
+Image: 458_img_.png
+
+quality =
+
+   45.7199
+
+Image: 459_img_.png
+
+quality =
+
+   34.0765
+
+Image: 45_img_.png
+
+quality =
+
+   66.6433
+
+Image: 460_img_.png
+
+quality =
+
+   44.6167
+
+Image: 461_img_.png
+
+quality =
+
+   40.2176
+
+Image: 462_img_.png
+
+quality =
+
+   37.0580
+
+Image: 463_img_.png
+
+quality =
+
+   73.6810
+
+Image: 464_img_.png
+
+quality =
+
+   44.1478
+
+Image: 465_img_.png
+
+quality =
+
+   44.7811
+
+Image: 466_img_.png
+
+quality =
+
+   30.6916
+
+Image: 467_img_.png
+
+quality =
+
+   52.6286
+
+Image: 468_img_.png
+
+quality =
+
+   39.4218
+
+Image: 469_img_.png
+
+quality =
+
+   50.2342
+
+Image: 46_img_.png
+
+quality =
+
+   54.9029
+
+Image: 470_img_.png
+
+quality =
+
+   50.5091
+
+Image: 471_img_.png
+
+quality =
+
+   31.4588
+
+Image: 472_img_.png
+
+quality =
+
+   56.4884
+
+Image: 473_img_.png
+
+quality =
+
+   37.6168
+
+Image: 476_img_.png
+
+quality =
+
+   54.8927
+
+Image: 477_img_.png
+
+quality =
+
+   52.6299
+
+Image: 478_img_.png
+
+quality =
+
+   22.5717
+
+Image: 479_img_.png
+
+quality =
+
+   27.8285
+
+Image: 480_img_.png
+
+quality =
+
+   46.9153
+
+Image: 481_img_.png
+
+quality =
+
+   46.4720
+
+Image: 482_img_.png
+
+quality =
+
+   62.9844
+
+Image: 483_img_.png
+
+quality =
+
+   35.9372
+
+Image: 484_img_.png
+
+quality =
+
+   16.8141
+
+Image: 485_img_.png
+
+quality =
+
+   30.4190
+
+Image: 486_img_.png
+
+quality =
+
+   40.4691
+
+Image: 487_img_.png
+
+quality =
+
+   46.1498
+
+Image: 488_img_.png
+
+quality =
+
+   31.5521
+
+Image: 489_img_.png
+
+quality =
+
+   50.4729
+
+Image: 48_img_.png
+
+quality =
+
+   51.1713
+
+Image: 490_img_.png
+
+quality =
+
+   53.6652
+
+Image: 491_img_.png
+
+quality =
+
+   42.4906
+
+Image: 492_img_.png
+
+quality =
+
+   27.1684
+
+Image: 493_img_.png
+
+quality =
+
+   33.3388
+
+Image: 494_img_.png
+
+quality =
+
+   48.9806
+
+Image: 495_img_.png
+
+quality =
+
+   42.5715
+
+Image: 496_img_.png
+
+quality =
+
+   53.5307
+
+Image: 497_img_.png
+
+quality =
+
+   26.7133
+
+Image: 498_img_.png
+
+quality =
+
+   24.8426
+
+Image: 499_img_.png
+
+quality =
+
+   31.0319
+
+Image: 49_img_.png
+
+quality =
+
+   69.5356
+
+Image: 4_img_.png
+
+quality =
+
+   35.9363
+
+Image: 501_img_.png
+
+quality =
+
+   26.2249
+
+Image: 502_img_.png
+
+quality =
+
+   28.6552
+
+Image: 503_img_.png
+
+quality =
+
+   27.0670
+
+Image: 504_img_.png
+
+quality =
+
+   39.3248
+
+Image: 505_img_.png
+
+quality =
+
+   66.0057
+
+Image: 506_img_.png
+
+quality =
+
+   38.3155
+
+Image: 507_img_.png
+
+quality =
+
+   36.0223
+
+Image: 508_img_.png
+
+quality =
+
+   34.1706
+
+Image: 509_img_.png
+
+quality =
+
+   44.0290
+
+Image: 50_img_.png
+
+quality =
+
+   37.6813
+
+Image: 510_img_.png
+
+quality =
+
+   26.9144
+
+Image: 511_img_.png
+
+quality =
+
+   52.5487
+
+Image: 512_img_.png
+
+quality =
+
+   61.8664
+
+Image: 513_img_.png
+
+quality =
+
+   49.6898
+
+Image: 515_img_.png
+
+quality =
+
+   43.4545
+
+Image: 516_img_.png
+
+quality =
+
+   55.7709
+
+Image: 517_img_.png
+
+quality =
+
+   46.1870
+
+Image: 518_img_.png
+
+quality =
+
+   41.0748
+
+Image: 519_img_.png
+
+quality =
+
+   33.5181
+
+Image: 51_img_.png
+
+quality =
+
+   72.3938
+
+Image: 524_img_.png
+
+quality =
+
+   45.5909
+
+Image: 526_img_.png
+
+quality =
+
+   45.8106
+
+Image: 527_img_.png
+
+quality =
+
+   42.5306
+
+Image: 528_img_.png
+
+quality =
+
+   41.6154
+
+Image: 52_img_.png
+
+quality =
+
+   31.3220
+
+Image: 530_img_.png
+
+quality =
+
+   22.7392
+
+Image: 531_img_.png
+
+quality =
+
+   69.6627
+
+Image: 532_img_.png
+
+quality =
+
+   72.1385
+
+Image: 533_img_.png
+
+quality =
+
+   59.6055
+
+Image: 534_img_.png
+
+quality =
+
+   44.2528
+
+Image: 535_img_.png
+
+quality =
+
+   52.7604
+
+Image: 536_img_.png
+
+quality =
+
+   60.7721
+
+Image: 537_img_.png
+
+quality =
+
+   45.1011
+
+Image: 538_img_.png
+
+quality =
+
+   45.3868
+
+Image: 539.png
+
+quality =
+
+   41.2252
+
+Image: 539_img_.png
+
+quality =
+
+   45.7159
+
+Image: 53_img_.png
+
+quality =
+
+   49.0841
+
+Image: 540_img_.png
+
+quality =
+
+   36.7332
+
+Image: 541_img_.png
+
+quality =
+
+   46.0788
+
+Image: 542_img_.png
+
+quality =
+
+   38.0415
+
+Image: 543_img_.png
+
+quality =
+
+   43.0106
+
+Image: 544_img_.png
+
+quality =
+
+   43.8002
+
+Image: 545_img_.png
+
+quality =
+
+   35.5697
+
+Image: 546_img_.png
+
+quality =
+
+   35.1472
+
+Image: 547_img_.png
+
+quality =
+
+   57.1250
+
+Image: 549_img_.png
+
+quality =
+
+   52.5407
+
+Image: 550_img_.png
+
+quality =
+
+   50.0353
+
+Image: 551_img_.png
+
+quality =
+
+   36.0372
+
+Image: 552_img_.png
+
+quality =
+
+   62.8592
+
+Image: 554_img_.png
+
+quality =
+
+   32.6237
+
+Image: 5554.png
+
+quality =
+
+   40.3218
+
+Image: 555_img_.png
+
+quality =
+
+   61.8142
+
+Image: 556_img_.png
+
+quality =
+
+   38.8433
+
+Image: 557.png
+
+quality =
+
+   46.0538
+
+Image: 557_img_.png
+
+quality =
+
+   52.5407
+
+Image: 558_img_.png
+
+quality =
+
+   33.8091
+
+Image: 559.png
+
+quality =
+
+   44.0354
+
+Image: 55_img_.png
+
+quality =
+
+   35.3134
+
+Image: 560_img_.png
+
+quality =
+
+   42.3000
+
+Image: 561_img_.png
+
+quality =
+
+   73.0281
+
+Image: 562_img_.png
+
+quality =
+
+   27.8796
+
+Image: 563.png
+
+quality =
+
+   61.8301
+
+Image: 563_img_.png
+
+quality =
+
+   50.5023
+
+Image: 564_img_.png
+
+quality =
+
+   32.5773
+
+Image: 566_img_.png
+
+quality =
+
+   27.6599
+
+Image: 567.png
+
+quality =
+
+   34.5202
+
+Image: 567_img_.png
+
+quality =
+
+   37.6804
+
+Image: 568_img_.png
+
+quality =
+
+   67.3545
+
+Image: 569_img_.png
+
+quality =
+
+   67.6900
+
+Image: 56_img_.png
+
+quality =
+
+   51.7817
+
+Image: 570_img_.png
+
+quality =
+
+   42.4090
+
+Image: 571_img_.png
+
+quality =
+
+   57.2970
+
+Image: 572_img_.png
+
+quality =
+
+   60.8470
+
+Image: 573_img_.png
+
+quality =
+
+   53.5274
+
+Image: 574_img_.png
+
+quality =
+
+   53.4584
+
+Image: 575_img_.png
+
+quality =
+
+   58.9938
+
+Image: 576_img_.png
+
+quality =
+
+   32.7810
+
+Image: 577_img_.png
+
+quality =
+
+   30.1577
+
+Image: 578_img_.png
+
+quality =
+
+   46.8644
+
+Image: 579_img_.png
+
+quality =
+
+   58.8373
+
+Image: 57_img_.png
+
+quality =
+
+   45.5691
+
+Image: 580_img_.png
+
+quality =
+
+   41.4473
+
+Image: 5818.png
+
+quality =
+
+   41.8699
+
+Image: 581_img_.png
+
+quality =
+
+   63.2525
+
+Image: 582_img_.png
+
+quality =
+
+   30.1993
+
+Image: 5830.png
+
+quality =
+
+   34.4871
+
+Image: 583_img_.png
+
+quality =
+
+   54.1382
+
+Image: 584_img_.png
+
+quality =
+
+   36.3983
+
+Image: 585_img_.png
+
+quality =
+
+   40.9304
+
+Image: 586_img_.png
+
+quality =
+
+   36.3720
+
+Image: 587_img_.png
+
+quality =
+
+   40.0225
+
+Image: 588_img_.png
+
+quality =
+
+   67.0951
+
+Image: 589_img_.png
+
+quality =
+
+   50.1654
+
+Image: 58_img_.png
+
+quality =
+
+   50.0574
+
+Image: 590_img_.png
+
+quality =
+
+   31.3212
+
+Image: 591_img_.png
+
+quality =
+
+   35.1258
+
+Image: 592_img_.png
+
+quality =
+
+   49.4164
+
+Image: 593_img_.png
+
+quality =
+
+   46.3664
+
+Image: 594_img_.png
+
+quality =
+
+   46.1074
+
+Image: 595_img_.png
+
+quality =
+
+   53.1690
+
+Image: 596_img_.png
+
+quality =
+
+   39.5440
+
+Image: 597_img_.png
+
+quality =
+
+   55.9563
+
+Image: 598.png
+
+quality =
+
+   41.7544
+
+Image: 598_img_.png
+
+quality =
+
+   35.9957
+
+Image: 599_img_.png
+
+quality =
+
+   79.0264
+
+Image: 59_img_.png
+
+quality =
+
+   39.4713
+
+Image: 600_img_.png
+
+quality =
+
+   34.3110
+
+Image: 601_img_.png
+
+quality =
+
+   45.5111
+
+Image: 602_img_.png
+
+quality =
+
+   41.1897
+
+Image: 603_img_.png
+
+quality =
+
+   39.9063
+
+Image: 604_img_.png
+
+quality =
+
+   41.3965
+
+Image: 605_img_.png
+
+quality =
+
+   68.5662
+
+Image: 6062.png
+
+quality =
+
+   36.5164
+
+Image: 606_img_.png
+
+quality =
+
+   47.2205
+
+Image: 607_img_.png
+
+quality =
+
+   34.2197
+
+Image: 6082.png
+
+quality =
+
+   56.9690
+
+Image: 608_img_.png
+
+quality =
+
+   41.5381
+
+Image: 609_img_.png
+
+quality =
+
+   58.3692
+
+Image: 60_img_.png
+
+quality =
+
+   44.5380
+
+Image: 610_img_.png
+
+quality =
+
+   45.8686
+
+Image: 611_img_.png
+
+quality =
+
+   34.7988
+
+Image: 612_img_.png
+
+quality =
+
+   39.2025
+
+Image: 613_img_.png
+
+quality =
+
+   50.8636
+
+Image: 614_img_.png
+
+quality =
+
+   37.3991
+
+Image: 615_img_.png
+
+quality =
+
+   34.1097
+
+Image: 616_img_.png
+
+quality =
+
+   50.8950
+
+Image: 617_img_.png
+
+quality =
+
+   39.3789
+
+Image: 618_img_.png
+
+quality =
+
+   25.8994
+
+Image: 619_img_.png
+
+quality =
+
+   40.2891
+
+Image: 61_img_.png
+
+quality =
+
+   44.1967
+
+Image: 620_img_.png
+
+quality =
+
+   44.8854
+
+Image: 621_img_.png
+
+quality =
+
+   52.3835
+
+Image: 622_img_.png
+
+quality =
+
+   50.1114
+
+Image: 623_img_.png
+
+quality =
+
+   42.1156
+
+Image: 625_img_.png
+
+quality =
+
+   43.7801
+
+Image: 626_img_.png
+
+quality =
+
+   59.5062
+
+Image: 627_img_.png
+
+quality =
+
+   37.7574
+
+Image: 628_img_.png
+
+quality =
+
+   36.8805
+
+Image: 629_img_.png
+
+quality =
+
+   57.8555
+
+Image: 62_img_.png
+
+quality =
+
+   38.2078
+
+Image: 630_img_.png
+
+quality =
+
+   55.1575
+
+Image: 631_img_.png
+
+quality =
+
+   44.3133
+
+Image: 632_img_.png
+
+quality =
+
+   50.5033
+
+Image: 633_img_.png
+
+quality =
+
+   61.6691
+
+Image: 634_img_.png
+
+quality =
+
+   50.9676
+
+Image: 635_img_.png
+
+quality =
+
+   35.6619
+
+Image: 636_img_.png
+
+quality =
+
+   43.7165
+
+Image: 637_img_.png
+
+quality =
+
+   25.3273
+
+Image: 638_img_.png
+
+quality =
+
+   43.3055
+
+Image: 639_img_.png
+
+quality =
+
+   49.3658
+
+Image: 63_img_.png
+
+quality =
+
+   45.2174
+
+Image: 640_img_.png
+
+quality =
+
+   57.4756
+
+Image: 641_img_.png
+
+quality =
+
+   34.4775
+
+Image: 642_img_.png
+
+quality =
+
+   45.1420
+
+Image: 645_img_.png
+
+quality =
+
+   51.0038
+
+Image: 646_img_.png
+
+quality =
+
+   30.3263
+
+Image: 647_img_.png
+
+quality =
+
+   63.2525
+
+Image: 648_img_.png
+
+quality =
+
+   46.5922
+
+Image: 649_img_.png
+
+quality =
+
+   44.4635
+
+Image: 64_img_.png
+
+quality =
+
+   31.3314
+
+Image: 650_img_.png
+
+quality =
+
+   81.5656
+
+Image: 651.png
+
+quality =
+
+   55.5872
+
+Image: 651_img_.png
+
+quality =
+
+   54.4649
+
+Image: 652_img_.png
+
+quality =
+
+   53.5718
+
+Image: 653_img_.png
+
+quality =
+
+   57.6354
+
+Image: 654_img_.png
+
+quality =
+
+   40.1931
+
+Image: 655_img_.png
+
+quality =
+
+   60.9615
+
+Image: 656_img_.png
+
+quality =
+
+   33.5309
+
+Image: 657_img_.png
+
+quality =
+
+   55.7082
+
+Image: 658_img_.png
+
+quality =
+
+   38.2224
+
+Image: 659_img_.png
+
+quality =
+
+   59.4103
+
+Image: 65_img_.png
+
+quality =
+
+   19.9489
+
+Image: 660_img_.png
+
+quality =
+
+   70.7009
+
+Image: 661_img_.png
+
+quality =
+
+   26.6347
+
+Image: 662_img_.png
+
+quality =
+
+   48.5049
+
+Image: 663_img_.png
+
+quality =
+
+   49.4688
+
+Image: 666_img_.png
+
+quality =
+
+   31.6091
+
+Image: 668_img_.png
+
+quality =
+
+   58.7824
+
+Image: 670_img_.png
+
+quality =
+
+   39.5965
+
+Image: 672_img_.png
+
+quality =
+
+   36.5579
+
+Image: 673_img_.png
+
+quality =
+
+   33.5026
+
+Image: 674_img_.png
+
+quality =
+
+   44.7471
+
+Image: 675_img_.png
+
+quality =
+
+   61.6695
+
+Image: 676_img_.png
+
+quality =
+
+   63.3225
+
+Image: 677_img_.png
+
+quality =
+
+   41.6294
+
+Image: 6788.png
+
+quality =
+
+   71.3820
+
+Image: 678_img_.png
+
+quality =
+
+   38.3661
+
+Image: 679_img_.png
+
+quality =
+
+   46.3897
+
+Image: 67_img_.png
+
+quality =
+
+   36.2400
+
+Image: 680_img_.png
+
+quality =
+
+   56.2082
+
+Image: 681_img_.png
+
+quality =
+
+   36.9956
+
+Image: 6820.png
+
+quality =
+
+   48.1372
+
+Image: 682_img_.png
+
+quality =
+
+   39.9931
+
+Image: 683_img_.png
+
+quality =
+
+   48.0861
+
+Image: 684_img_.png
+
+quality =
+
+   24.4714
+
+Image: 685_img_.png
+
+quality =
+
+   48.1566
+
+Image: 686_img_.png
+
+quality =
+
+   46.7418
+
+Image: 6872.png
+
+quality =
+
+   52.8827
+
+Image: 687_img_.png
+
+quality =
+
+   47.2293
+
+Image: 688_img_.png
+
+quality =
+
+   29.0943
+
+Image: 689_img_.png
+
+quality =
+
+   49.2060
+
+Image: 690_img_.png
+
+quality =
+
+   79.5236
+
+Image: 691_img_.png
+
+quality =
+
+   63.0199
+
+Image: 692_img_.png
+
+quality =
+
+   39.3164
+
+Image: 694_img_.png
+
+quality =
+
+   42.6379
+
+Image: 695_img_.png
+
+quality =
+
+   54.5525
+
+Image: 696_img_.png
+
+quality =
+
+   47.2116
+
+Image: 697_img_.png
+
+quality =
+
+   57.9024
+
+Image: 698_img_.png
+
+quality =
+
+   28.2108
+
+Image: 699_img_.png
+
+quality =
+
+   44.5787
+
+Image: 6_img_.png
+
+quality =
+
+   27.5518
+
+Image: 700_img_.png
+
+quality =
+
+   28.6993
+
+Image: 701_img_.png
+
+quality =
+
+   31.3032
+
+Image: 7027.png
+
+quality =
+
+   45.6805
+
+Image: 702_img_.png
+
+quality =
+
+   59.8774
+
+Image: 703_img_.png
+
+quality =
+
+   53.2162
+
+Image: 704_img_.png
+
+quality =
+
+   29.3942
+
+Image: 705_img_.png
+
+quality =
+
+   68.9677
+
+Image: 706_img_.png
+
+quality =
+
+   30.3760
+
+Image: 707_img_.png
+
+quality =
+
+   41.8113
+
+Image: 708_img_.png
+
+quality =
+
+   63.2926
+
+Image: 709_img_.png
+
+quality =
+
+   54.6859
+
+Image: 70_img_.png
+
+quality =
+
+   45.3311
+
+Image: 710_img_.png
+
+quality =
+
+   22.7304
+
+Image: 711_img_.png
+
+quality =
+
+   47.9489
+
+Image: 712_img_.png
+
+quality =
+
+   48.0824
+
+Image: 713_img_.png
+
+quality =
+
+   37.9856
+
+Image: 714_img_.png
+
+quality =
+
+   38.8826
+
+Image: 715_img_.png
+
+quality =
+
+   26.8380
+
+Image: 716_img_.png
+
+quality =
+
+   62.5754
+
+Image: 718_img_.png
+
+quality =
+
+   61.7434
+
+Image: 719_img_.png
+
+quality =
+
+   26.4839
+
+Image: 720_img_.png
+
+quality =
+
+  113.5684
+
+Image: 721_img_.png
+
+quality =
+
+   55.2943
+
+Image: 722_img_.png
+
+quality =
+
+   73.9961
+
+Image: 723_img_.png
+
+quality =
+
+   20.3443
+
+Image: 724_img_.png
+
+quality =
+
+   36.6116
+
+Image: 725_img_.png
+
+quality =
+
+   34.2561
+
+Image: 726_img_.png
+
+quality =
+
+   56.9272
+
+Image: 727_img_.png
+
+quality =
+
+   53.8205
+
+Image: 728_img_.png
+
+quality =
+
+   21.2390
+
+Image: 729_img_.png
+
+quality =
+
+   40.5239
+
+Image: 72_img_.png
+
+quality =
+
+   62.5030
+
+Image: 730_img_.png
+
+quality =
+
+   59.1953
+
+Image: 731_img_.png
+
+quality =
+
+   46.5636
+
+Image: 732_img_.png
+
+quality =
+
+   24.3526
+
+Image: 733_img_.png
+
+quality =
+
+   47.8447
+
+Image: 734_img_.png
+
+quality =
+
+   54.4848
+
+Image: 735_img_.png
+
+quality =
+
+   45.3985
+
+Image: 736_img_.png
+
+quality =
+
+   50.3777
+
+Image: 737_img_.png
+
+quality =
+
+   44.6083
+
+Image: 738_img_.png
+
+quality =
+
+   44.4598
+
+Image: 73_img_.png
+
+quality =
+
+   66.0578
+
+Image: 740_img_.png
+
+quality =
+
+   52.4739
+
+Image: 741_img_.png
+
+quality =
+
+   56.1196
+
+Image: 743_img_.png
+
+quality =
+
+   28.6704
+
+Image: 744_img_.png
+
+quality =
+
+   26.2631
+
+Image: 745_img_.png
+
+quality =
+
+   38.2384
+
+Image: 746_img_.png
+
+quality =
+
+   30.3357
+
+Image: 747_img_.png
+
+quality =
+
+   36.5905
+
+Image: 748_img_.png
+
+quality =
+
+   33.5389
+
+Image: 749_img_.png
+
+quality =
+
+   46.6236
+
+Image: 74_img_.png
+
+quality =
+
+   42.9322
+
+Image: 750_img_.png
+
+quality =
+
+   58.7189
+
+Image: 751_img_.png
+
+quality =
+
+   38.0893
+
+Image: 752_img_.png
+
+quality =
+
+   39.3406
+
+Image: 753_img_.png
+
+quality =
+
+   31.9167
+
+Image: 754_img_.png
+
+quality =
+
+   50.4148
+
+Image: 756.png
+
+quality =
+
+   34.7334
+
+Image: 756_img_.png
+
+quality =
+
+   29.8633
+
+Image: 757_img_.png
+
+quality =
+
+   81.2113
+
+Image: 758.png
+
+quality =
+
+   28.8939
+
+Image: 758_img_.png
+
+quality =
+
+   22.6921
+
+Image: 759_img_.png
+
+quality =
+
+   62.6996
+
+Image: 760_img_.png
+
+quality =
+
+   51.5732
+
+Image: 762_img_.png
+
+quality =
+
+   38.8450
+
+Image: 763_img_.png
+
+quality =
+
+   52.4837
+
+Image: 7643.png
+
+quality =
+
+   32.9167
+
+Image: 764_img_.png
+
+quality =
+
+   27.3880
+
+Image: 7654.png
+
+quality =
+
+   44.2138
+
+Image: 765_img_.png
+
+quality =
+
+   43.7385
+
+Image: 766_img_.png
+
+quality =
+
+   33.7072
+
+Image: 767_img_.png
+
+quality =
+
+   56.0086
+
+Image: 768_img_.png
+
+quality =
+
+   43.8342
+
+Image: 769_img_.png
+
+quality =
+
+   41.1890
+
+Image: 76_img_.png
+
+quality =
+
+   50.1529
+
+Image: 770_img_.png
+
+quality =
+
+   47.9227
+
+Image: 771_img_.png
+
+quality =
+
+   29.9801
+
+Image: 772_img_.png
+
+quality =
+
+   55.0485
+
+Image: 773_img_.png
+
+quality =
+
+   32.2083
+
+Image: 775_img_.png
+
+quality =
+
+   29.0957
+
+Image: 776_img_.png
+
+quality =
+
+   35.8490
+
+Image: 777_img_.png
+
+quality =
+
+   31.1729
+
+Image: 778_img_.png
+
+quality =
+
+   44.1807
+
+Image: 779_img_.png
+
+quality =
+
+   54.9345
+
+Image: 77_img_.png
+
+quality =
+
+   35.4659
+
+Image: 780_img_.png
+
+quality =
+
+   30.7429
+
+Image: 781_img_.png
+
+quality =
+
+   23.8361
+
+Image: 782_img_.png
+
+quality =
+
+   34.1041
+
+Image: 783_img_.png
+
+quality =
+
+   54.7539
+
+Image: 784_img_.png
+
+quality =
+
+   40.7805
+
+Image: 785_img_.png
+
+quality =
+
+   28.6993
+
+Image: 786_img_.png
+
+quality =
+
+   63.0819
+
+Image: 787_img_.png
+
+quality =
+
+   46.3818
+
+Image: 788_img_.png
+
+quality =
+
+   44.4436
+
+Image: 789_img_.png
+
+quality =
+
+   34.9627
+
+Image: 78_img_.png
+
+quality =
+
+   33.5711
+
+Image: 790_img_.png
+
+quality =
+
+   42.3163
+
+Image: 7916.png
+
+quality =
+
+   55.0195
+
+Image: 791_img_.png
+
+quality =
+
+   52.1566
+
+Image: 792_img_.png
+
+quality =
+
+   53.9518
+
+Image: 793_img_.png
+
+quality =
+
+   33.1577
+
+Image: 794_img_.png
+
+quality =
+
+   61.3280
+
+Image: 795_img_.png
+
+quality =
+
+   26.9398
+
+Image: 796_img_.png
+
+quality =
+
+   44.5927
+
+Image: 797_img_.png
+
+quality =
+
+   55.8821
+
+Image: 798_img_.png
+
+quality =
+
+   47.8645
+
+Image: 799_img_.png
+
+quality =
+
+   53.8456
+
+Image: 79_img_.png
+
+quality =
+
+   30.9488
+
+Image: 7_img_.png
+
+quality =
+
+   28.8463
+
+Image: 800_img_.png
+
+quality =
+
+   59.3882
+
+Image: 8010.png
+
+quality =
+
+   28.1419
+
+Image: 802_img_.png
+
+quality =
+
+   41.3062
+
+Image: 803_img_.png
+
+quality =
+
+   35.7586
+
+Image: 8046.png
+
+quality =
+
+   27.4358
+
+Image: 804_img_.png
+
+quality =
+
+   49.9538
+
+Image: 8056.png
+
+quality =
+
+   45.3296
+
+Image: 806_img_.png
+
+quality =
+
+   68.0816
+
+Image: 807_img_.png
+
+quality =
+
+   30.7902
+
+Image: 808_img_.png
+
+quality =
+
+   26.6680
+
+Image: 809_img_.png
+
+quality =
+
+   44.8573
+
+Image: 80_img_.png
+
+quality =
+
+   27.8061
+
+Image: 810_img_.png
+
+quality =
+
+   55.0958
+
+Image: 811_img_.png
+
+quality =
+
+   40.3603
+
+Image: 812_img_.png
+
+quality =
+
+   26.5190
+
+Image: 813_img_.png
+
+quality =
+
+   31.0340
+
+Image: 814_img_.png
+
+quality =
+
+   48.0861
+
+Image: 815_img_.png
+
+quality =
+
+   37.7694
+
+Image: 816_img_.png
+
+quality =
+
+   58.8874
+
+Image: 817_img_.png
+
+quality =
+
+   22.4555
+
+Image: 818_img_.png
+
+quality =
+
+   60.5873
+
+Image: 819_img_.png
+
+quality =
+
+   37.8335
+
+Image: 820_img_.png
+
+quality =
+
+   31.5226
+
+Image: 821_img_.png
+
+quality =
+
+   34.1594
+
+Image: 822_img_.png
+
+quality =
+
+   56.3424
+
+Image: 823_img_.png
+
+quality =
+
+   35.8525
+
+Image: 8262.png
+
+quality =
+
+   35.2322
+
+Image: 827_img_.png
+
+quality =
+
+   50.5808
+
+Image: 8288.png
+
+quality =
+
+   29.4571
+
+Image: 828_img_.png
+
+quality =
+
+   41.8113
+
+Image: 829_img_.png
+
+quality =
+
+   46.8388
+
+Image: 82_img_.png
+
+quality =
+
+   26.4839
+
+Image: 831_img_.png
+
+quality =
+
+   57.1886
+
+Image: 832_img_.png
+
+quality =
+
+   76.9284
+
+Image: 833_img_.png
+
+quality =
+
+   19.5952
+
+Image: 834_img_.png
+
+quality =
+
+   25.8788
+
+Image: 835_img_.png
+
+quality =
+
+   27.1590
+
+Image: 837.png
+
+quality =
+
+   14.7560
+
+Image: 837_img_.png
+
+quality =
+
+   42.2317
+
+Image: 838_img_.png
+
+quality =
+
+   25.2632
+
+Image: 841.png
+
+quality =
+
+   27.8786
+
+Image: 841_img_.png
+
+quality =
+
+   39.4069
+
+Image: 842_img_.png
+
+quality =
+
+   31.8161
+
+Image: 843_img_.png
+
+quality =
+
+   50.4925
+
+Image: 844_img_.png
+
+quality =
+
+   34.5883
+
+Image: 845_img_.png
+
+quality =
+
+   43.2368
+
+Image: 846_img_.png
+
+quality =
+
+   55.4452
+
+Image: 847_img_.png
+
+quality =
+
+   30.2403
+
+Image: 848_img_.png
+
+quality =
+
+   57.6313
+
+Image: 849_img_.png
+
+quality =
+
+   30.3021
+
+Image: 850_img_.png
+
+quality =
+
+   36.5098
+
+Image: 851_img_.png
+
+quality =
+
+   43.8668
+
+Image: 852_img_.png
+
+quality =
+
+   51.3376
+
+Image: 854_img_.png
+
+quality =
+
+   38.4401
+
+Image: 855_img_.png
+
+quality =
+
+   51.2728
+
+Image: 856_img_.png
+
+quality =
+
+   52.2613
+
+Image: 857_img_.png
+
+quality =
+
+   20.2429
+
+Image: 858_img_.png
+
+quality =
+
+   35.7121
+
+Image: 859_img_.png
+
+quality =
+
+   91.7780
+
+Image: 860_img_.png
+
+quality =
+
+   41.3104
+
+Image: 861_img_.png
+
+quality =
+
+   62.2861
+
+Image: 862_img_.png
+
+quality =
+
+   45.9693
+
+Image: 863_img_.png
+
+quality =
+
+   41.8208
+
+Image: 865_img_.png
+
+quality =
+
+   53.6190
+
+Image: 866_img_.png
+
+quality =
+
+   41.6918
+
+Image: 867_img_.png
+
+quality =
+
+   45.9965
+
+Image: 868_img_.png
+
+quality =
+
+   33.5083
+
+Image: 869_img_.png
+
+quality =
+
+   52.0435
+
+Image: 86_img_.png
+
+quality =
+
+   27.5810
+
+Image: 871_img_.png
+
+quality =
+
+   40.2749
+
+Image: 872_img_.png
+
+quality =
+
+   23.2349
+
+Image: 873_img_.png
+
+quality =
+
+   27.5887
+
+Image: 874_img_.png
+
+quality =
+
+   40.0397
+
+Image: 875_img_.png
+
+quality =
+
+   29.0703
+
+Image: 876_img_.png
+
+quality =
+
+   42.8839
+
+Image: 877_img_.png
+
+quality =
+
+   52.4240
+
+Image: 878_img_.png
+
+quality =
+
+   32.5508
+
+Image: 879_img_.png
+
+quality =
+
+   46.7151
+
+Image: 87_img_.png
+
+quality =
+
+   37.2290
+
+Image: 880_img_.png
+
+quality =
+
+   41.4940
+
+Image: 881_img_.png
+
+quality =
+
+   45.1546
+
+Image: 887_img_.png
+
+quality =
+
+   35.0260
+
+Image: 889_img_.png
+
+quality =
+
+   48.6671
+
+Image: 890.png
+
+quality =
+
+   31.2878
+
+Image: 890_img_.png
+
+quality =
+
+   35.9336
+
+Image: 891_img_.png
+
+quality =
+
+   39.2402
+
+Image: 892_img_.png
+
+quality =
+
+   23.4157
+
+Image: 893_img_.png
+
+quality =
+
+   43.0027
+
+Image: 895_img_.png
+
+quality =
+
+   56.6132
+
+Image: 896_img_.png
+
+quality =
+
+   62.2583
+
+Image: 89_img_.png
+
+quality =
+
+   30.5486
+
+Image: 8_img_.png
+
+quality =
+
+   45.1011
+
+Image: 901_img_.png
+
+quality =
+
+   38.7799
+
+Image: 904_img_.png
+
+quality =
+
+   32.7792
+
+Image: 905_img_.png
+
+quality =
+
+   61.8850
+
+Image: 906_img_.png
+
+quality =
+
+   26.7391
+
+Image: 907_img_.png
+
+quality =
+
+   29.0358
+
+Image: 908_img_.png
+
+quality =
+
+   39.7147
+
+Image: 909_img_.png
+
+quality =
+
+   41.3977
+
+Image: 90_img_.png
+
+quality =
+
+   58.8743
+
+Image: 910_img_.png
+
+quality =
+
+   55.9027
+
+Image: 911_img_.png
+
+quality =
+
+   38.8955
+
+Image: 912_img_.png
+
+quality =
+
+   48.0926
+
+Image: 913_img_.png
+
+quality =
+
+   36.1031
+
+Image: 914_img_.png
+
+quality =
+
+   46.6221
+
+Image: 915_img_.png
+
+quality =
+
+   36.9349
+
+Image: 916_img_.png
+
+quality =
+
+   37.2431
+
+Image: 917_img_.png
+
+quality =
+
+   37.2662
+
+Image: 918_img_.png
+
+quality =
+
+   60.3953
+
+Image: 919_img_.png
+
+quality =
+
+   38.3090
+
+Image: 91_img_.png
+
+quality =
+
+   42.2501
+
+Image: 920_img_.png
+
+quality =
+
+   41.0931
+
+Image: 921_img_.png
+
+quality =
+
+   41.5722
+
+Image: 922_img_.png
+
+quality =
+
+   60.8644
+
+Image: 923_img_.png
+
+quality =
+
+  126.5227
+
+Image: 924_img_.png
+
+quality =
+
+   66.2537
+
+Image: 925_img_.png
+
+quality =
+
+   74.7444
+
+Image: 926_img_.png
+
+quality =
+
+   51.0824
+
+Image: 927_img_.png
+
+quality =
+
+   67.9447
+
+Image: 928_img_.png
+
+quality =
+
+   72.3834
+
+Image: 929_img_.png
+
+quality =
+
+   38.2573
+
+Image: 92_img_.png
+
+quality =
+
+   44.5991
+
+Image: 94_img_.png
+
+quality =
+
+   37.0408
+
+Image: 9547.png
+
+quality =
+
+   50.5165
+
+Image: 9554.png
+
+quality =
+
+   30.8613
+
+Image: 9557.png
+
+quality =
+
+   27.8459
+
+Image: 9567.png
+
+quality =
+
+   46.1366
+
+Image: 95_img_.png
+
+quality =
+
+   45.1179
+
+Image: 96_img_.png
+
+quality =
+
+   36.0569
+
+Image: 97_img_.png
+
+quality =
+
+   70.8413
+
+Image: 9896.png
+
+quality =
+
+   41.3729
+
+Image: 98_img_.png
+
+quality =
+
+   37.9402
+
+Image: 9900.png
+
+quality =
+
+   38.6145
+
+Image: 9907.png
+
+quality =
+
+   59.8119
+
+Image: 9947.png
+
+quality =
+
+   46.6981
+
+Image: 99_img_.png
+
+quality =
+
+   32.9875
+
+Image: 9_img_.png
+Mean Quality: 43.7855
